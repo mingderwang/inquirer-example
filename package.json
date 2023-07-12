@@ -1,0 +1,13 @@
+{
+  "name": "inquirer-example",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "devDependencies": {
+    "inquirer": "^9.2.7",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "dev": "ts-node index.mjs"
+  }
+}
